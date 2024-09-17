@@ -1,0 +1,13 @@
+
+# pandas, numpy, scikit-learn, matplotlib, seaborn, jupyter, fastapi, uvicorn
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+fastapi
+uvicorn
+xgboost
+joblib
+
